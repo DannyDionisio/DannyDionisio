@@ -42,3 +42,6 @@
   
   
  <img align="right" alt="Danny-built" src="http://ForTheBadge.com/images/badges/built-with-love.svg" />
+  
+   ![Snake animation](https://github.com/DannyDionisio/DannyDionisio/blob/output/github-contribution-grid-snake.svg)
+ 
